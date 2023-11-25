@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdlucioGuimaraes
-- 👀 I’m interested in novas ideis
-- 🌱 I’m currently learning  Front-End: HTML,CSS e Javascript
-- 💞️ I’m looking to collaborate on diversos projetos que envolvam desenvolvimento
+- 👀 I’m interested in new ideas
+- 🌱 I'm currently learning Front-End: HTML, CSS and Javascript, but I already develop in backend
+- 💞️ I’m looking to collaborate on several projects that involve development
 - 📫 How to reach me ...
 
 <!---
